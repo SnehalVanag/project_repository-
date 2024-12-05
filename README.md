@@ -1,1 +1,1 @@
-# my_repo
+# project_repository
